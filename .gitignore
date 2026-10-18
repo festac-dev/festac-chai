@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.env.local
+.env.*
+!.env.example
+node_modules/
+.git-backup/
+.git_backup/
+*.pem
+*.key
+*.log
